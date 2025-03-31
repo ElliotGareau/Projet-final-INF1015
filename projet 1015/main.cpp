@@ -1,3 +1,3 @@
 int main() {
-	int valeur = 8;
+	int valeur = 5;
 }
